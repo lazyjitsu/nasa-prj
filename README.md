@@ -27,3 +27,5 @@ Keep in mind that we recommend you code along with us and use this only if you e
 To run any automated tests, run `npm test`. This will: 
 * Run all the client-side tests: `npm test --prefix client`
 * Run all the server-side tests: `npm test --prefix server` 
+
+
